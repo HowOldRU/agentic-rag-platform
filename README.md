@@ -1,4 +1,4 @@
-# AI-Assistant
+# agentic-rag-platform
 
 企业级 AI 智能问答与知识管理系统 — 集对话、知识库检索、文档管理、权限隔离于一体的全栈应用。
 
